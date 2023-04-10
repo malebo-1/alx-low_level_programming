@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - args content 
+ * main - args content
  * @argc: counts argument
  * @argv: vectors argument
  *
