@@ -4,7 +4,6 @@
 /**
  * _strdup - duplicates string
  * @str: string to duplicate
- * 
  * Return: the string duplicated
  */
 char *_strdup(char *str)
@@ -14,7 +13,7 @@ char *_strdup(char *str)
 
 	if (str == NULL)
 		return (NULL);
-	
+
 	while (str[i])
 	{
 		i++;
