@@ -20,5 +20,6 @@ int _strcmp(char *s1, char *s2);
 int _isalpha(int c);
 char *_strcpy(char *dest, char *src);
 char *_memset(char *s, char b, unsigned int n);
-
+char *_strpbrk(char *n, char *accept);
+char *_strstr(char *haystack, char *needle);
 #endif /* _MAIN_H_ */
